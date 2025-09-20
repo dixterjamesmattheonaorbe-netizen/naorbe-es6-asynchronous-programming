@@ -1,0 +1,9 @@
+{
+  "students": [
+    { "id": 1, "name": "Dixter Naorbe", "age": 19, "course": "Computer Science" },
+    { "id": 2, "name": "Mark", "age": 22, "course": "Information Technology" },
+    { "id": 3, "name": "John", "age": 20, "course": "Software Engineering" },
+    { "id": 4, "name": "Maria", "age": 23, "course": "Data Science" },
+    { "id": 5, "name": "James", "age": 21, "course": "Cybersecurity" }
+  ]
+}
